@@ -11,27 +11,11 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.delac.io/"
+            href="https://twitter.com/danipass0s"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Matt Delac
-          </a>{" "}
-          and is{" "}
-          <a
-            href="https://github.com/wecodeschool/react-weather-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            open-sourced on GitHub
-          </a>{" "}
-          and{" "}
-          <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            hosted on Netlify
+            Daniela Passos
           </a>
         </footer>
       </div>
